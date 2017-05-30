@@ -1,0 +1,63 @@
+/**/
+.loginbox,.login #logo,input[type=submit],input[type=reset],input[type=button],#navigation,.content{-moz-border-radius:5px; -webkit-border-radius:5px;}
+.header,.subnav{-moz-border-radius:0 0 5px 5px; -webkit-border-radius:0 0 5px 5px;}
+.loginbox{box-shadow:10px 10px 5px #000;}
+.sublink1,#navigation ul{list-style:none; margin:0}
+.content{background:#fff; padding:10px; min-height:600px}
+
+/* header & footer */
+.header{padding:1em; margin-bottom:1em; background:#fff}
+#loggedinfo{float:right; text-align:right; color:#999}
+#loggedinfo em{color:#333}
+#logo{float:left}
+#navigation{background:#f90 url(../images/bgnav.png) repeat-x 0 -8px; height:2.5em; border:1px solid #f90; margin-bottom:1em}
+#navigation ul li{float:left; font-weight:bold; border-right:1px solid #f90; text-transform:uppercase; position:relative}
+#navigation ul li a{float:left; padding:0.5em 1.2em; color:#fff}
+#navigation ul li a:hover,#navigation ul li:hover{background:#f90; color:#333; text-decoration:none}
+.subnav{position:absolute; top:30px; left:0; background:#f90; padding:0.75em 0; width:200px; display:none}
+.subnav ul li{float:none !important; text-transform:none!important; margin-bottom:0.2em}
+.subnav ul li a{float:none !important; padding:0.2em 1.2em !important; display:block;}
+.subnav ul li a:hover{background:#fc0 !important}
+.copy{text-align:center; color:#999; margin-top:1em; font-size:90%}
+
+/* login page */
+.loginbox,.login #logo{width:310px; margin:0 auto; background:#fff; padding:10px}
+.loginbox label{display:block; margin-bottom:0.2em}
+.loginbox input[type=text],.loginbox input[type=password]{width:300px; margin-bottom:1em}
+.login #logo{margin-top:15em; margin-bottom:1em; float:none; background:none}
+
+/* dashboard */
+.dashboardicons .icon{float:left; margin:0 15px 10px 0; cursor:pointer}
+.dashboardicons h2,.dashboardicons p{margin-left:70px}
+.sublink1{background:#f6f6f6; border:1px solid #e6e6e6; width:200px; padding:0.5em; margin:0 0 10px 75px; display:none}
+.sublink1 li{padding:2px; font-size:11px;}
+
+/* form */
+.field{padding:10px; margin-bottom:1em; background:#f6f6f6; border:1px solid #e6e6e6}
+.field div{padding:0 0 10px 250px}
+.field label{float:left; width:200px; margin-bottom:5px; padding-top:5px}
+.field input[type=text]{width:350px}
+.field input[id=quantity]{width:130px}
+.gray{color:#999}
+
+/* grid */
+.grid th,.grid th1{background:#e7eff2 url(../images/bgnav2.png) repeat-x 0 -10px; border-bottom:1px solid #ddd; border-right:1px solid #eee; border-left:1px solid #ccc; text-align:left; padding:3px 5px; font-weight:normal;}
+.grid .th2{background:#d9e8fb url(../images/bgnav2.png) repeat-x 0 -10px; border-bottom-color:#aaccf6; border-right-color:#aaccf6; border-left-color:#aaccf6;}
+.grid td,.grid .tr1 td{border-bottom:1px solid #ededed; border-top:1px solid #fff; padding:3px 5px; color:#666}
+.grid .tr2 td{background:#fafafa;}
+.grid{border:1px solid #99bbe8; margin-bottom:1em;}
+.grid h3{border-bottom:1px solid #99bbe8; margin:0; padding:6px 10px; background:#dfedfe url(../images/bgnav.png) repeat-x 0 -5px; color:#000}
+.grid .wrapp{width:100%; height:404px; overflow:auto}
+.rollover td{background:#eee url(../images/bgnav.png) repeat-x 0 0}
+.grid input[type=checkbox]{top:0}
+.grid .topbar{background:#f8f5e9; border-bottom:1px solid #99bbe8; padding:3px; color:#999}
+input.btn-active{background:url(../images/unblock.png) no-repeat 5px 4px;}
+input.btn-deactive{background:url(../images/block.png) no-repeat 5px 4px;}
+input.btn-delete{background:url(../images/cross.png) no-repeat 5px 4px; }
+input.btn-delete1{background:url(../images/cross.png) no-repeat 5px 4px; }
+input.btn-active,input.btn-deactive,input.btn-delete,input.btn-delete1{border:0; font:normal 12px arial; padding:5px 5px 5px 25px; color:#36c; text-transform:none; cursor:pointer;-moz-border-radius:0; -webkit-border-radius:0;}
+	
+.paging{padding:4px; background:#f9f9f9; border-top:1px solid #99bbe8}
+.paging .text{border-width:1px; padding:1px; width:25px;}
+.paging ul li{float:left; margin-right:5px}
+.paging ul{height:18px}

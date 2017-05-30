@@ -1,0 +1,1 @@
+<p class="copy">Copyright &copy; 2010 All Right Reserved.</p>

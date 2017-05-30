@@ -1,0 +1,31 @@
+
+.body_back{ margin:5px 0 0 0px; padding:0 0 0 0; }
+#header_menu{background-color:#393c29; width:999px; height:50px;margin:0px 0 0 20px;}
+#headertable{background-color:#393c29; width:999px; height:50px;}
+#product_title
+{width:100px; height:20px; color:#FFF;font-family:Arial, Helvetica, sans-serif; font-size:16px; margin:0 0 0 5px; padding:13px 0 0 17px;float:left;}
+#Product_details
+{width:320px; height:20px; color:#FFF;font-family:Arial, Helvetica, sans-serif; font-size:16px; margin:0 0 0 70px; padding:13px 0 0 7px; float:left;}
+#Product_price
+{width:100px; height:20px; color:#FFF;font-family:Arial, Helvetica, sans-serif; font-size:16px; margin:0 0 0 90px; padding:13px 0 0 7px; float:left;}
+#Product_mage
+{width:120px; height:20px; color:#FFF;font-family:Arial, Helvetica, sans-serif; font-size:16px; margin:0 0 0 100px; padding:13px 0 0 7px; float:left;}
+#Date
+{width:80px; height:20px; color:#FFF;font-family:Arial, Helvetica, sans-serif; font-size:16px; margin:0 0 0 80px; padding:13px 0 0 7px; float:left;}
+
+.containcer{width:987px;height:365px; }
+.container1{position:relative;margin:0 auto 0;display:block;width:960px;}
+.content1{height:140px; width:980px;color:#c96; font-family:Georgia,serif; font-size:17px; font-style:italic;border-bottom:1px solid rgba(255,255,255,0.2); border-top:1px solid rgba(0,0,0,0.9);}
+.content2{ background:#666666;height:140px; width:970px;color:#c96; font-family:Georgia,serif; font-size:17px; font-style:italic;border-bottom:1px solid rgba(255,255,255,0.2); border-top:1px solid rgba(0,0,0,0.9);}
+.product_title{ width:100px; height:100px;float:left; margin:10px 0 0 1px; padding:15px 0 0 10px;}
+.Product_details{width:300px; height:100px;float:left; margin:10px 0 0 85px; padding:15px 0 0 0px;}
+.Product_price{width:100px; height:100px;float:left; margin:10px 0 0 120px; padding:35px 0 0 0px;}
+.Product_mage{width:80px; height:75px;float:left; margin:10px 0 0 120px; padding:10px 0 0 0px; border-radious:5px;}
+.Date{width:100px; height:100px;float:left; margin:10px 0 0 100px; padding:15px 0 0 0px;}
+.label_div{background-color:#FFCCCC; width:100px; height:20px;}
+.labeldiv_font{font style="font-family:Times New Roman, Times, serif; font-size:15px;}
+.label_imgdiv{width:400px; height:300px}
+.label_description{width:350px; height:30px;}
+.description_font{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:18px;font  color:#990000}
+
+
