@@ -16,21 +16,18 @@ define("DB_NAME","db27627_deaconTest");
 define("TBL_PREFIX","");
 */
 //ACTUAL DATABASE SERVER SETIINGS
+define("DB_HOST","localhost");
 
+define("DB_USER","univeahr_sourav");
 
-/*define("DB_HOST","localhost");
+define("DB_PASS","sourav123");
 
-define("DB_USER","root");
+define("DB_NAME","univeahr_database");
 
-define("DB_PASS","");
-
-define("DB_NAME","journal");
+/*
 
 define("TBL_PREFIX","");
 
-
-//LOCAL DATABASE SERVER SETIINGS
-*/
 define("DB_HOST","mysql1000.mochahost.com");
 
 define("DB_USER","niloy83_test");
@@ -38,6 +35,9 @@ define("DB_USER","niloy83_test");
 define("DB_PASS","test123");
 
 define("DB_NAME","niloy83_universal");
+//LOCAL DATABASE SERVER SETIINGS
+*/
+
 
 //define("SITE_URL","localhost");
 

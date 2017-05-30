@@ -19,13 +19,11 @@ define("TBL_PREFIX","");
 
 define("DB_HOST","localhost");
 
-define("DB_USER","root");
+define("DB_USER","univeahr_sourav");
 
-define("DB_PASS","");
+define("DB_PASS","sourav123");
 
-define("DB_NAME","journal");
-
-define("TBL_PREFIX","");
+define("DB_NAME","univeahr_database");
 /*
 
 
